@@ -4,45 +4,42 @@ h1 {
   background-color: #4bb85d;
   font-size: 300%;
   font-weight: bold;
-  font-family:"Lato", sans-serif;
-}
+  font-family: "Lato", sans-serif; }
 
 body {
-font-family: "Lato", sans-serif;
-}
+  font-family: "Lato", sans-serif; }
 
 .sidenav {
-width: 130px;
-position: fixed;
-z-index: 1;
-top: 20px;
-left: 10px;
-background-color: #78c284;
-
-overflow-x: hidden;
-padding: 8px 0;
-}
+  width: 130px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background-color: #4bb85d;
+  overflow-x: hidden;
+  padding: 8px 0; }
 
 .sidenav a {
-padding: 6px 8px 6px 16px;
-text-decoration: none;
-font-size: 25px;
-color: #4d9458;
-display: block;
-}
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #4d9458;
+  display: block; }
 
 .sidenav a:hover {
-color: #064579;
-}
+  color: #064579; }
 
 .main {
-margin-top: auto;
-margin-left: 140px;
-font-size: 28px;
-padding: 0px 10px;
-}
+  margin-top: auto;
+  margin-left: 140px;
+  font-size: 28px;
+  padding: 0px 10px; }
 
 @media screen and (max-height: 450px) {
-.sidenav {padding-top: 15px;}
-.sidenav a {font-size: 18px;}
-}
+  .sidenav {
+    padding-top: 15px; }
+
+  .sidenav a {
+    font-size: 18px; } }
+
+/*# sourceMappingURL=style_sheet.css.map */
